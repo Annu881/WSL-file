@@ -1,6 +1,7 @@
 ## Installation on Windows (WSL)#### Setting up WSL
 1. Install WSL (Windows Subsystem for Linux) if not already installed. Follow the [official guide](https://learn.microsoft.com/en-us/windows/wsl/install).
-   - Install Ubuntu as the default distribution (you can choose another Linux distribution, but these instructions assume Ubuntu).2. Open a terminal and update your system:
+   - Install Ubuntu as the default distribution (you can choose another Linux distribution, but these instructions assume Ubuntu).
+     2. Open a terminal and update your system:
    ```bash
    sudo apt update && sudo apt upgrade -y
    ```3. Set up WSL2 as the default version:
