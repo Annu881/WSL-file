@@ -4,7 +4,7 @@
      2. Open a terminal and update your system:
    ```bash
    sudo apt update && sudo apt upgrade -y
-   ```3. Set up WSL2 as the default version:
+   3. Set up WSL2 as the default version:
    ```powershell
    wsl --set-default-version 2
    ```---#### Cloning From GitHub
